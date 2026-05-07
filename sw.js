@@ -1,8 +1,8 @@
 const CACHE = 'orbit-wings-v1.0';
 const FILES = [
-  '/Flash-Desh/',
-  '/Flash-Desh/index.html',
-  '/Flash-Desh/manifest.json'
+  '/Orbit-Wings/',
+  '/Orbit-Wings/index.html',
+  '/Orbit-Wings/manifest.json'
 ];
 
 self.addEventListener('install', e => {
