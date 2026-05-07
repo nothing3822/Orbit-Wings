@@ -1,4 +1,4 @@
-const CACHE = 'orbit-wings-v1.0';
+const CACHE = 'orbit-wings-v1.1';
 const FILES = [
   '/Orbit-Wings/',
   '/Orbit-Wings/index.html',
