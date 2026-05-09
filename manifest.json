@@ -7,6 +7,10 @@
   "orientation": "portrait",
   "background_color": "#07071a",
   "theme_color": "#07071a",
+  "id": "/Orbit-Wings/",
+  "scope": "/Orbit-Wings/",
+  "lang": "en",
+  "categories": ["games", "entertainment"],
   "icons": [
     {
       "src": "icon-192.png",
