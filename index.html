@@ -6,6 +6,11 @@
 <title>ORBIT WINGS</title>
 <link rel="manifest" href="manifest.json">
 <meta name="theme-color" content="#07071a">
+<script>
+  if('serviceWorker' in navigator){
+    navigator.serviceWorker.register('/Orbit-Wings/sw.js');
+  }
+</script>
 <!-- AdMob SDK Placeholder - Replace with real AdMob script tag before publishing -->
 <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-app-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script> -->
 <style>
